@@ -1,6 +1,6 @@
 ## Dr. Sylvia Brady
 ![Headshot of Sylvia Brady] <img
-  src="/img/brady_globe_2024.jpg"
+  src="/img/Brady_globe_2024.jpg"
   alt="picture of Dr. Brady at the AAG 2024 with big globe"
   width="25%">
 * Lecturer, Metropolitan State University of Denver
