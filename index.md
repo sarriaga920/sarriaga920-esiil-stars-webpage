@@ -1,5 +1,5 @@
 ## Dr. Sylvia Brady
-![Headshot of Sylvia Brady] <img
+<img
   src="/img/Brady_globe_2024.jpg"
   alt="picture of Dr. Brady at the AAG 2024 with big globe"
   width="25%">
