@@ -1,5 +1,5 @@
 ## Dr. Sylvia Brady
-<img src="https://github.com/sarriaga920/sarriaga920-esiil-stars-webpage/blob/main/img/Brady_globe_2024.jpg?raw=true" alt="picture of Dr. Brady at the AAG 2024 with big globe" width="25%">
+<img src="https://github.com/sarriaga920/sarriaga920-esiil-stars-webpage/blob/main/img/Brady_globe_2024.jpg?" alt="picture of Dr. Brady at the AAG 2024 with big globe" width="25%">
 
 * Lecturer, Metropolitan State University of Denver
 * sbrady16@msudenver.edu
